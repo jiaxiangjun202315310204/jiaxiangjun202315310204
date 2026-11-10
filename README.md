@@ -1,26 +1,17 @@
-### 你好，我是 Jiaxiang 👋
+### jiaxiangjun
 
-全栈 · AI Agent 开发，习惯把重复劳动交给脚本。
+正在不断进阶的软件开发者。从全栈开发出发，深入 Go 后端与 AI Agent 工程。
 
-- 🔭 正在做 [ai-agent-platform](https://github.com/jiaxiangjun202315310204/ai-agent-platform) —— LangGraph + FastAPI + Vue 3 的多 Agent 问答平台
-- 🧰 顺手造工具 [boss-auto-hunter](https://github.com/jiaxiangjun202315310204/boss-auto-hunter) —— BOSS直聘 AI 自动投递油猴脚本
-- 🌱 给上游提过修复：[vastsa/PI-Desktop #2227](https://github.com/vastsa/PI-Desktop/pull/2227)（已合并）
+**最近的进度**
 
----
+- **学 Go** —— 不满足于"能跑"，想写出扛得住并发的服务端
+- **读开源** —— 遇到问题先翻源码，能改就提上去：[vastsa/PI-Desktop #2227](https://github.com/vastsa/PI-Desktop/pull/2227) 已合并
+- **造工具** —— 把重复劳动写成脚本，比如让 AI 替我先筛一遍职位、再替我打招呼
 
-#### 技术栈
+**信条**
 
-`Python` · `TypeScript` · `Vue 3` · `FastAPI` · `LangGraph` / `LangChain` · `RAG` · `Node.js` · `Electron` · `Vite` · `Vitest`
-
----
-
-#### 项目
-
-| 项目 | 说明 |
-| --- | --- |
-| [boss-auto-hunter](https://github.com/jiaxiangjun202315310204/boss-auto-hunter) | BOSS直聘 AI 自动求职油猴脚本：AI 简历匹配 → 自动投递 → 协议打招呼，DOM 兜底 + 冷却机制，带 Vitest 单元测试 |
-| [ai-agent-platform](https://github.com/jiaxiangjun202315310204/ai-agent-platform) | LangGraph + FastAPI + Vue 3 的 AI Agent 平台，Research / RAG / Supervisor 多 Agent 编排（骨架阶段，持续施工） |
+> 把想法变成真正可用的软件，比把想法讲得好听难得多。
 
 ---
 
-<sub>有问题直接开 Issue，比找联系方式快。</sub>
+<sub>在读别人的源码，也在写自己的。有问题直接开 Issue。</sub>
